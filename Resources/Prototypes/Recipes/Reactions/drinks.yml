@@ -90,7 +90,7 @@
     Uranium:
       amount: 1
   products:
-    AtomicBomb: 10
+    AtomicBomb: 11
 
 - type: reaction
   id: B52
